@@ -1,6 +1,8 @@
 # run
 
-This project provides a simple, self-contained setup to build and run a continuous data stream application that integrates:
+This project is a port of https://github.com/b4be1/packet-client-linux, created by Boris Belousov (Ph.D) of the German Research Centre for Artificial Intelligence.
+Created for use in Professor Yasemin Ozkan-Aydin's (Ph.D) lab at the University of Notre Dame by Val Coppo.
+
 
 - **Dynamixel SDK (C++ core)** from ROBOTIS for controlling Dynamixel servos
 - **PacketClient** code for receiving OptiTrack NatNet packets
